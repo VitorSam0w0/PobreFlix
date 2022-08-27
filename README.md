@@ -1,46 +1,55 @@
+<!-- Badges session -->
+<p align="center">  
+  <!-- languages -->
+  <img src="https://img.shields.io/github/languages/count/pleiterson/clone-interface-netflix-html-css-js?style=social" alt="Linguagens utilizadas">
+  <!-- repo size -->
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/clone-interface-netflix-html-css-js?style=social" alt="Tamanho do repositório">
+  <!-- last commit -->
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/clone-interface-netflix-html-css-js?style=social" alt="Último commit">
+  <!-- licence MIT -->
+  <img src="https://img.shields.io/github/license/Pleiterson/clone-interface-netflix-html-css-js?style=social" alt="Licença MIT">
+</p>
 
-## Oiii eu sou Vitor, Um Dia Eu Vou Ser Um Exelente Programador🤩!
-  ![Snake animation](https://github.com/VitorSam0w0/VitorSam0w0/blob/output/github-contribution-grid-snake.svg)
-<div align="center">
-  <a href="https://github.com/VitorSam0w0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSam0w0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-    
-<div> 
 
-  <div>
-        <a href="https://discord.gg/xJV6adeEkS"><img src="https://img.icons8.com/bubbles/70/discord-logo.png" class"media-object
-  <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/discord-logo.png">
-        <a href="https://www.instagram.com/vsvitorsam/?igshid=YmMyMTA2M2Y%3D"><img src="https://img.icons8.com/bubbles/70/instagram-new--v2.png" class"media-object
-  <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/instagram-new--v2.png">
-          
-  </div>
-  
-  ##
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSam0w0&layout=compact&langs_count=7&theme=dark"/>
-    
-<div style="display: inline_block"><br>
-    <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/pixel-cat.png" class"media-object
-  <img align="center" alt="Rafa-Ts" height="70" width="70" src="https://img.icons8.com/bubbles/70/pixel-cat.png">
-    <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/bright-moon.png" class"media-object
-  <img align="center" alt="Rafa-React" height="70" width="70" src="https://img.icons8.com/bubbles/70/bright-moon.png">
-      <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/kawaii-pizza.png" class"media-object
-  <img align="center" alt="Rafa-HTML" height="70" width="70" src="https://img.icons8.com/bubbles/70/kawaii-pizza.png">
-      <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/pokemon.png" class"media-object
-  <img align="center" alt="Rafa-CSS" height="70" width="70" src="https://img.icons8.com/bubbles/70/pokemon.png">
-        <a href="https://github.com/VitorSam0w0"><img src="https://img.icons8.com/bubbles/70/mana.png" class"media-object
-  <img align="center" alt="Rafa-Python" height="70" width="70" src="https://img.icons8.com/bubbles/70/mana.png">
-  
-  
-</div>
+<!--Banner session-->
+<p align="center">
+  <img src="./src/assets/img/cover_dio.png" alt="DIO" title="Digital Innovation One">
+</p>
 
-##
 
-<img src="https://data.whicdn.com/images/309541334/original.gif" />
-  
-  ##
-  
-  ![Snake animation](https://github.com/VitorSam0w0/VitorSam0w0/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<!--About session-->
+<h1 align="center">Recriando a Interface do Netflix<br>Digital Innovation One</h1>
+
+Curso do Bootcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
+
+<img src="./src/assets/img/badge-curso.png" title="Badge" width="70" height="70">
+
+Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
+
+As imagens dos filmes incluídos neste projetos foram retiradas do site [The Movie Database - TMDb](https://www.themoviedb.org/). O carousel foi criado através do plugin jQuery [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/), no site contém vários exemplos de carousel.
+
+Neste projeto realizei algumas alterações, como a logo da Netflix que no projeto original não tem. A fonte utilizada no original foi Arial, eu já incluí a fonte <b>Roboto</b> do [Google Fonts](https://fonts.google.com/specimen/Roboto).
+
+<i>PS.: todos os links deste clone retornam para a mesma página.</i>
+
+- [Projeto desenvolvido](https://clone-netflix.vercel.app/)
+
+<p align="center"><img src="./src/assets/img/projeto.gif" title="Clone Netflix - DIO"></p>
+<p align="center"><img src="./src/assets/img/projeto-responsivo.gif" title="Clone Netflix - DIO"></p>
+
+
+<h3>👨‍💻 Tecnologias utilizadas</h3>
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+<!--License session-->
+<h3>📝 Licença</h3>
+
+- Este projeto está sob a licença [MIT](./LICENSE).
+
+
+<!--Bottom session-->
+<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
